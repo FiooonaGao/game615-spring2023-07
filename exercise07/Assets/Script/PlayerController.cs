@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public Animator animator;
     public float moveSpeed = 5f;
     public float mouseSensitivity = 80.0f;
-    public float clampAngle = 90.0f;
+    public float clampAngle = 180.0f;
     private float rotX = 0.0f;
     private float rotY = 0.0f;
     private Rigidbody rb;
