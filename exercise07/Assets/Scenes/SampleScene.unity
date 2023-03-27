@@ -6173,7 +6173,7 @@ MonoBehaviour:
   animator: {fileID: 1722738910}
   moveSpeed: 10
   mouseSensitivity: 80
-  clampAngle: 180
+  clampAngle: 90
   GameOn: 0
   audioSource: {fileID: 1017058521}
 --- !u!136 &1689006709
